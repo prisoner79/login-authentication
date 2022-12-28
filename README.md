@@ -3,6 +3,14 @@ SYNC intern's [TASK 1]
 
 
 
+You can open this project on any web-browser or on any device
+[I recomend use laptop for this purpose ]
+
+your live link is ///
+https://prisoner79.github.io/login-authentication/
+
+
+
 This project include 1) LOGIN PAGE 
                      2) FORGETPASSWORD PAGE 
                      3) CREAT NEW ACCOUNT PAGE
